@@ -1,0 +1,13 @@
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign.deps.json
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign.runtimeconfig.json
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign.runtimeconfig.dev.json
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign.dll
+/home/dani/Code/C#/BatchAssign2/MidAssign/bin/Debug/netcoreapp3.1/MidAssign.pdb
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.csprojAssemblyReference.cache
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.csproj.CoreCompileInputs.cache
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.AssemblyInfoInputs.cache
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.AssemblyInfo.cs
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.dll
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.pdb
+/home/dani/Code/C#/BatchAssign2/MidAssign/obj/Debug/netcoreapp3.1/MidAssign.genruntimeconfig.cache
